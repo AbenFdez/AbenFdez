@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Aben Fernández
+# 👋 ¡Hola! Soy Alejandra Ben Fernández
 
 📊 Apasionada del análisis de datos, en constante aprendizaje en el mundo de la Ciencia de Datos y Power Platform.
 
