@@ -20,7 +20,13 @@
 - Power BI 
 - Power Query
 - Git & GitHub
-- Python 
+- Jupyter 
+- Python
+- Pandas
+- Numpy
+- Scikit Learn
+- PySpark
+- Matplotlib
 - SQL Server y PostgreSQL
 - Azure Data Studio
 - Azure Data Factory 
